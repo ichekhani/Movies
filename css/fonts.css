@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Gotu';
+    src: url('../fonts/Gotu-Regular.eot');
+    src: url('../font/Gotu-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Gotu-Regular.woff2') format('woff2'),
+        url('../fonts/Gotu-Regular.woff') format('woff'),
+        url('../fonts/Gotu-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Saira';
+    src: url('../fonts/Saira-Light.eot');
+    src: url('../fonts/Saira-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Saira-Light.woff2') format('woff2'),
+        url('../fonts/Saira-Light.woff') format('woff'),
+        url('../fonts/Saira-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Death Star';
+    src: url('../fonts/DeathStar.eot');
+    src: url('../fonts/DeathStar.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DeathStar.woff2') format('woff2'),
+        url('../fonts/DeathStar.woff') format('woff'),
+        url('../fonts/DeathStar.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
